@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+time =  0, a = 0, b=0
+time =  1, a = 1, b=0
+time =  2, a = 1, b=1
+time =  3, a = 0, b=0
+$stop called at time : 5 ns : File "C:/Users/denis/project_1/project_1.srcs/sim_1/new/testbench.v" Line 39
