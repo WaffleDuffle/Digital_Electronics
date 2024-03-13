@@ -39,7 +39,7 @@ end */
 always@(*) begin // modifica out daca una din variabile (*) se schimba
     case(sel)
         2'b00: begin
-            out = in[0];                    //sel pe 2 biti avem 4 iesiri in multiplexor
+            out = in[0];                    //sel pe 2 biti avem 4 posibile iesiri din multiplexor
         end 
         2'b01: begin
             out = in[1];
