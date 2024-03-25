@@ -21,7 +21,7 @@
 
 
 module mux2(input [3:0] in0,
-            input [3:0] in1,   // vector de 4 intrari
+            input [3:0] in1,   // 4 biti
             input sel, // vectori de 2 alegeri
             output [3:0] out); //output wire out
             
