@@ -1,7 +1,7 @@
 
 module demux(
     input [7:0] in0,
-    input [2:0] sel,
+    input [1:0] sel,
     output reg [7:0] out0,
     output reg [7:0] out1,
     output reg [7:0] out2,
