@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/demux4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module demux4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/mux2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/mux4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/parity_calc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module parity_calc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
