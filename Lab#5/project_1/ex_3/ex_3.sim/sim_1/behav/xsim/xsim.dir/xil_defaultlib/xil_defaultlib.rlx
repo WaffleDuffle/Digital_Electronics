@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sim_1/new/testbench.v,1711823680,verilog,,,,testbench,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/TOP.v,1711826899,verilog,,C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/demux4.v,,TOP,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/demux4.v,1711821623,verilog,,C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/mux2.v,,demux4,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/mux2.v,1711823774,verilog,,C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/mux4.v,,mux2,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/mux4.v,1711825111,verilog,,C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/parity_calc.v,,mux4,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sources_1/new/parity_calc.v,1711822100,verilog,,C:/Users/denis/Verilog_projects/Lab_5/ex_3/ex_3.srcs/sim_1/new/testbench.v,,parity_calc,,,,,,,,
