@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/denis/Verilog_projects/Lab_10/ex_4/ex_4.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_10/ex_4/ex_4.srcs/sim_1/new/TB.v,1715627868,verilog,,,,TB,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_10/ex_4/ex_4.srcs/sources_1/new/TOP.v,1715627343,verilog,,C:/Users/denis/Verilog_projects/Lab_10/ex_4/ex_4.srcs/sources_1/new/comparator_mare.v,,top,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_10/ex_4/ex_4.srcs/sources_1/new/comparator_mare.v,1715620097,verilog,,C:/Users/denis/Verilog_projects/Lab_10/ex_4/ex_4.srcs/sources_1/new/comparator_mic.v,,comparator_mare,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_10/ex_4/ex_4.srcs/sources_1/new/comparator_mic.v,1715620100,verilog,,C:/Users/denis/Verilog_projects/Lab_10/ex_4/ex_4.srcs/sources_1/new/counter.v,,comparator_mic,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_10/ex_4/ex_4.srcs/sources_1/new/counter.v,1715619904,verilog,,C:/Users/denis/Verilog_projects/Lab_10/ex_4/ex_4.srcs/sim_1/new/TB.v,,counter,,,,,,,,
