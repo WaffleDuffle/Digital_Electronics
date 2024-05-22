@@ -1,0 +1,14 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sim_1/new/TB.v,1716393304,verilog,,,,TB,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/counter_6b.v,1716273476,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/demux.v,,counter_6b,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/demux.v,1716392680,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/pass_check_fsm.v,,demux,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/pass_check_fsm.v,1716393277,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/ram_consonants.v,,pass_check_fsm,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/ram_consonants.v,1716274641,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/ram_vowels.v,,ram_consonants,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/ram_vowels.v,1716274642,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/reg_6b.v,,ram_vowels,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/reg_6b.v,1716273703,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/top.v,,reg_6b,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/top.v,1716390462,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/vowel_checker_struct.v,,top,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sources_1/new/vowel_checker_struct.v,1716275232,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_1/ex_1.srcs/sim_1/new/TB.v,,vowel_checker_struct,,,,,,,,
