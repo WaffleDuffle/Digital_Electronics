@@ -28,7 +28,7 @@ module pass_check_fsm(
     output pass_ok
     );
     
-    // parola: CAR
+    // parola: CONST
     localparam IDLE = 3'b000;
     localparam STARE_C = 3'b001;
     localparam STARE_O = 3'b010;
