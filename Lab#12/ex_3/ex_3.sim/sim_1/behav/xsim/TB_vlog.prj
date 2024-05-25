@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ex_3.srcs/sources_1/new/add_8b.v" \
+"../../../../ex_3.srcs/sources_1/new/comp_eq.v" \
+"../../../../ex_3.srcs/sources_1/new/compute_behav.v" \
+"../../../../ex_3.srcs/sources_1/new/compute_structural.v" \
+"../../../../ex_3.srcs/sources_1/new/counter_11b.v" \
+"../../../../ex_3.srcs/sources_1/new/counter_8b.v" \
+"../../../../ex_3.srcs/sources_1/new/ram_2048x8b.v" \
+"../../../../ex_3.srcs/sources_1/new/reg_8b.v" \
+"../../../../ex_3.srcs/sources_1/new/shift_left.v" \
+"../../../../ex_3.srcs/sources_1/new/sub_8b.v" \
+"../../../../ex_3.srcs/sources_1/new/subtract.v" \
+"../../../../ex_3.srcs/sources_1/new/top.v" \
+"../../../../ex_3.srcs/sim_1/new/TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
