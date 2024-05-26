@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sim_1/new/TB.v,1716749251,verilog,,,,TB,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/comp_eq_20.v,1716740488,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/comp_eq_4.v,,comp_eq_20,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/comp_eq_4.v,1716747364,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/counter_baud_rate.v,,comp_eq_4,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/counter_baud_rate.v,1716743319,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/counter_bit_select.v,,counter_baud_rate,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/counter_bit_select.v,1716747271,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/crc_calc.v,,counter_bit_select,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/crc_calc.v,1716742512,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/mux.v,,crc_calc,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/mux.v,1716750310,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/reg0.v,,mux,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/reg0.v,1716741376,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/toggle_ff.v,,reg0,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/toggle_ff.v,1716740815,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/top.v,,toggle_ff,,,,,,,,
+C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sources_1/new/top.v,1716750280,verilog,,C:/Users/denis/Verilog_projects/Lab_12/ex_4/ex_4.srcs/sim_1/new/TB.v,,top,,,,,,,,

@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ex_4.srcs/sources_1/new/comp_eq_20.v" \
+"../../../../ex_4.srcs/sources_1/new/comp_eq_4.v" \
+"../../../../ex_4.srcs/sources_1/new/counter_baud_rate.v" \
+"../../../../ex_4.srcs/sources_1/new/counter_bit_select.v" \
+"../../../../ex_4.srcs/sources_1/new/crc_calc.v" \
+"../../../../ex_4.srcs/sources_1/new/mux.v" \
+"../../../../ex_4.srcs/sources_1/new/reg0.v" \
+"../../../../ex_4.srcs/sources_1/new/toggle_ff.v" \
+"../../../../ex_4.srcs/sources_1/new/top.v" \
+"../../../../ex_4.srcs/sim_1/new/TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
