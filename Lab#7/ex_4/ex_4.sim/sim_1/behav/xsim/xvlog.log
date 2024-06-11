@@ -1,8 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denis/Verilog_projects/Lab_7/ex_4/ex_4.srcs/sources_1/new/circuit_cu_FF.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module circuit_cu_FF
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denis/Verilog_projects/Lab_7/ex_4/ex_4.srcs/sources_1/new/circuit_fara_FF.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module circuit_fara_FF
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denis/Verilog_projects/Lab_7/ex_4/ex_4.srcs/sources_1/new/flipflop_D.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module flipflop_D
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denis/Verilog_projects/Lab_7/ex_4/ex_4.srcs/sim_1/new/testbench.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module testbench
