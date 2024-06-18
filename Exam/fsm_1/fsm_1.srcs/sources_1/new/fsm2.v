@@ -71,7 +71,7 @@ module fsm2(
             end
             q4: begin
                 out = 3'b001;
-                    state_next = q1;
+                    state_next = q0;
             end
         
         endcase
